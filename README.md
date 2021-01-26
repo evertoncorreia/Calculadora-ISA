@@ -5,3 +5,7 @@ Esta calculadora é fruto da pesquisa de iniciação ciêntifica do Departamento
 
 
 A útima versão do instalador da ferramenta pode ser [baixada na página de lançamento desse repositório](https://github.com/evertoncorreia/Calculadora-ISA/releases)
+
+
+
+O ícone da aplicação é livre para uso, de acordo com os termos de serviço do [PurePNG](https://purepng.com/page/terms-of-service).
